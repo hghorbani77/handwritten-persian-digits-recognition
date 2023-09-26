@@ -7,7 +7,7 @@ In this project, a dataset of handwritten Persian digits has been identified usi
 
 ## Dataset Overview
 
-The dataset used for this exercise consists of 1,698 images of handwritten Persian digits from 0 to 9. This dataset is a subset of the comprehensive Hoda dataset (collected from the national university entrance exam in 2005 - 1384), which is provided in a folder named "Hoda_Dataset" along with other accompanying materials.
+The dataset used for this exercise consists of 1,698 images of handwritten Persian digits from 0 to 9. This dataset is a subset of the comprehensive Hoda dataset (collected from the national university entrance exam in 2005 - 1384), which is provided in a file named "Hoda_Dataset.zip" along with other accompanying materials.
 
 ## Features
 
