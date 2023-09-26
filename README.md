@@ -1,6 +1,6 @@
 
-# Recognition of Handwritten Persian Digits using MLP Neural Network
-# تشخیص ارقام دست‌ نویس فارسی
+# Recognition of Handwritten Persian Digits using MLP Neural Network / تشخیص ارقام دست‌ نویس فارسی
+
 ## Description
 In this project, a dataset of handwritten Persian digits has been identified using a Multi-Layer Perceptron (MLP) neural network. In this repository, you can find the source code and results related to the training and evaluation of this neural network.
 
